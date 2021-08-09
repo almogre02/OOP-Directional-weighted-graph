@@ -1,6 +1,6 @@
 # Ex2
 The second assignment in OPP course
-- Names: Saar Barel & Almog Reuveny.
+- Names: Almog Reuveny & Saar Barel.
 In this assignment we built a directional weighted graph by data structures and running 
 pokemons game by catching them with agents and gain points by each catch .
 We used hashMap,Queue,List and Stack.
