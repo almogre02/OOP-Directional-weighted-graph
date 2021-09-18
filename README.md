@@ -3,7 +3,7 @@ The second assignment in OPP course
 - Names: Almog Reuveny & Saar Barel.
 In this assignment we built a directional weighted graph by data structures and running 
 pokemons game by catching them with agents and gain points by each catch .
-We used hashMap,Queue,List and Stack.
+We used HashMap,Queue,List and Stack.
 There are 2 parts to the task:
 -The first part: represents a positive directional weighted graph.
  -DWGraph_DS: represents a directional weighted graph.
